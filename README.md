@@ -20,6 +20,8 @@ npx ncu -u
 ```
 - Add `NPM_TOKEN` to `repository>settings>secrets and variables>actions` to publish package to npm registry
 - Upgrade `node-version` and `pnpm` version in workflow files if new `lts` version is available.
+- Navigate to Repo > Settings > Actions. Something like: https://github.com/<YOUR-PROFILE>/<YOUR-REPO>/settings/actions.
+- Enable the settings to `Allow GitHub Actions to create and approve pull requests`
 
 
 
