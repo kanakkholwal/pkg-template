@@ -33,7 +33,7 @@ npx ncu -u
 
 ## Contributing
 
-Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request on [GitHub](https://github.com/kanakkholwal/pdf-tables-parser).
+Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request on [GitHub](https://github.com/kanakkholwal/pkg-template).
 
 ## License
 
@@ -41,4 +41,4 @@ This project is licensed under the ISC License. See the LICENSE file for details
 
 ## Support
 
-For issues and suggestions, please visit the [GitHub issues page](https://github.com/kanakkholwal/pdf-tables-parser/issues).
+For issues and suggestions, please visit the [GitHub issues page](https://github.com/kanakkholwal/pkg-template/issues).
